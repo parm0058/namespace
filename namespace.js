@@ -1,4 +1,4 @@
-var parm0058 = {
+var PARM0058 = {
     
 init: function(){
     let div = document.createElement("div");
